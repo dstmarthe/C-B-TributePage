@@ -43,9 +43,12 @@ body {
 	width: 45vh;
 }
 #tribute-info {
-	width: 58vw;
+	width: 55vw;
 	margin-top: 30vh;
 	border-radius: 5px;
-	padding: 7vh 10vw 10vh 5vw;
+	padding: 5vh 12vw 10vh 5vw;
 	background-color: rgba(0, 0, 0, 0.1);
+}
+ul li {
+	padding: 5px;
 }
